@@ -1,1 +1,7 @@
-package hs_test_git
+package main
+
+import "fmt"
+
+func Main()  {
+	fmt.Printf("hoa")
+}
